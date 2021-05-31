@@ -11,6 +11,9 @@ let height
 let intervalid
 let dataArray // remember the pixel values. use this as training data
 
+console.log("hello")
+
+
 function initSettings() {
     width = video.offsetWidth
     height = video.offsetHeight
