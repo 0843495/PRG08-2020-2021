@@ -120,6 +120,7 @@ function initializeWebcam() {
     }
 }
 
+console.log('test')
 
 var KNN = require('../node_modules/ml-knn/lib/index.js')
 var knn 
